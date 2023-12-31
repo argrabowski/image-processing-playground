@@ -10,6 +10,10 @@ This repository contains a Python script that serves as an image processing play
 - **User-Triggered Actions**: Responds to keyboard inputs for actions like capturing photos, starting/stopping video recording, extracting blue color, and more.
 - **Matplotlib Integration**: Displays frames processed with Laplacian, Sobel X, and Sobel Y operators using Matplotlib.
 
+https://github.com/argrabowski/image-processing-playground/assets/64287065/8ab31bc8-6f46-4792-8830-d326ac275d97
+
+https://github.com/argrabowski/image-processing-playground/assets/64287065/bd8663e3-4500-48e4-8733-66c869be11e9
+
 ## Getting Started
 
 1. **Clone the Repository:**
